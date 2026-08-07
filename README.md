@@ -92,6 +92,4 @@ Charts will be saved to `/visuals`, and cleaned data + summary metrics to `/data
 - Add cohort or RFM (Recency, Frequency, Monetary) customer segmentation
 - A/B test simulated pricing or promotion strategies
 
-## 📄 License
 
-MIT — feel free to fork and adapt for your own portfolio.
